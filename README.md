@@ -1,10 +1,12 @@
-<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=JiHwan+Moon&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAVA-JiHwan&edge_flat=false&title=hits)
+### 👋 안녕하세요! 백엔드 개발자 문지환입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAVA-JiHwan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 _문지환_입니다!
+소통과 협업을 중요시해요. 🗣️💡
+새로운 기술에 빠르게 적응하고, 문제 해결에 도전합니다. 🚀🔍
+사용자 중심의 서비스 개발에 열정을 가지고 있어요. ❤️👥
+창의적인 아이디어를 기반으로 혁신적인 솔루션을 제공합니다. 💡💡
 
 <!-- Body -->
 
